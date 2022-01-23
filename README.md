@@ -10,3 +10,5 @@ Esto es otro cambio bruh!
 Ya entendi los cambios
 
 git remote rm nombreDelRepo
+
+ngit remote rm nombreDelRepo
