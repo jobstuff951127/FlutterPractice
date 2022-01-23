@@ -11,4 +11,6 @@ Ya entendi los cambios
 
 git remote rm nombreDelRepo
 
-ngit remote rm nombreDelRepo
+Dale al sistema 
+
+pasa elcodigo 
