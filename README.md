@@ -7,4 +7,5 @@ Once flutter zip is ready, we need to unzip it in C:\src folder for windows user
 Note:
 
 *To handle licenses warnings run "flutter doctor --android-licenses" command.
+*To intall emulators open android studio, create a new project and when it's done loading press the upper left icon called "Device Manager" to intall a new one
 
