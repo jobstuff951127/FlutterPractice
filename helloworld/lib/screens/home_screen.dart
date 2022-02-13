@@ -42,10 +42,10 @@ class HomeScreen extends StatelessWidget {
 class CustomScreen extends StatelessWidget {
   final Color color;
 
-  const CustomScreen({required this.color});
+  const CustomScreen({Key? key, required this.color}) : super(key: key);
 
   @override
-  Widget build(BuildContext contextq) {
+  Widget build(BuildContext context) {
     return Container(
       color: color,
       child: const Center(
